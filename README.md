@@ -1,5 +1,5 @@
 <h1> Trabalho API </h1>
-Site voltado para conversão de moedas utilizando API, com conversões disponibilizadas: Euro para Dólar e vice-versa, Real para Euro e vice-versa e Real para Dólar e vice-versa. <br>
+Site voltado para conversão de moedas utilizando API, com conversões disponibilizadas em diferentes nacionalidades. <br>
 
 <h3> Tela Inicial </h3>
 <img src="https://thumbs2.imgbox.com/1c/e8/303oSaVz_t.jpeg"></img>
@@ -19,23 +19,17 @@ Site voltado para conversão de moedas utilizando API, com conversões disponibi
 <br>
 
 <h2> Observações: </h2>
-• Na pasta acetins há: CSS, Points, Imagens e JS;
-•
-•
-•
-
-
-
-
-
-
+• Na pasta "assets" há: CSS, Fonts, Images e JS; O CSS e JS desta pasta são externos. <br>
+• Na pasta "vendor" há: BootsTrap e JQuery, que são externos
 
 <h2> Uso da Aplicação </h2>
-• Inicialmente, baixe o projeto e execute em um editor de códigos. 
+• Inicialmente, baixe o projeto e execute em um editor de códigos. <br>
 • Após acessá-la, clique no botão "Iniciar Conversão"; <br>
 • Digite o valor a ser convertido; <br> 
-• Selecione para qual moeda deseja converter;
+• Selecione para qual moeda deseja converter; <br>
 • Aperte o botão e aparecerá o valor da conversão.
+
+<h2> Como acessar a API </h2>
 
 
 
