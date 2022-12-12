@@ -32,7 +32,7 @@ Site voltado para conversão de moedas utilizando API, com conversões disponibi
 <h2> Como acessar a API </h2>
 
 <h2> Integrantes </h2>
-  ## Autores
+
 
   
 
