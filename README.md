@@ -36,8 +36,8 @@ Site voltado para conversão de moedas utilizando API, com conversões disponibi
 
   
 
-| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="https://avatars.githubusercontent.com/u/102603196?v=4" width=115><br><sub>Rayanne Melo</sub>](https://github.com/rayannemd) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |  [<img src="" width=115><br><sub></sub>](https://github.com/)
-| :---: | :---: | :---: | :---: | ---: |
+| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="https://avatars.githubusercontent.com/u/102603196?v=4" width=115><br><sub>Rayanne Melo</sub>](https://github.com/rayannemd) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |    [<img src="https://avatars.githubusercontent.com/u/102602855?v=4" width=115><br><sub>José Gabriel</sub>](https://github.com/gaabvitti)
+| :---: | :---: | :---: | :---: | :---: |
 
 
 
