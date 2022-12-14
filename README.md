@@ -1,5 +1,5 @@
 <h1> Trabalho API </h1>
-Site voltado para conversão de moedas utilizando API, com conversões disponibilizadas em diferentes nacionalidades. Possui o objetivo de unir todos os conceitos aprendidos até o momento na disciplina<br>
+Site voltado para conversão de moedas utilizando API, com conversões disponibilizadas em diferentes nacionalidades. Possui o objetivo de unir todos os conceitos aprendidos até o momento na disciplina. Funcionando normalmente.<br>
 <h2> Dividido nas partes: </h2>
 • Tela Inicial <br>
 • Tela da Calculadora<br>
