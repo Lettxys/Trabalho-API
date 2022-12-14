@@ -5,7 +5,6 @@ Site voltado para conversão de moedas utilizando API, com conversões disponibi
 • Tela da Calculadora<br>
 • Observações<br>
 • Uso da Aplicação<br>
-• Como acessar a API<br>
 • Integrantes<br>
 
 <h2> Observações: </h2>
@@ -35,8 +34,6 @@ Site voltado para conversão de moedas utilizando API, com conversões disponibi
 • Digite o valor a ser convertido; <br> 
 • Selecione para qual moeda deseja converter; <br>
 • Aperte o botão e aparecerá o valor da conversão.
-
-<h2> Como acessar a API </h2>
 
 <h2> Integrantes </h2>
 
